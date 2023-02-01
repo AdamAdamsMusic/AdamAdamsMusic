@@ -2,7 +2,7 @@
 
 ### Things I'm doing
 
-- Writing useful tools to increase productivity
+- Writing useful tools to increase productivity, mainly using [Rust](https://github.com/rust-lang/rust)
 - Creating custom touchscreen templates based on [open-stage-control](https://github.com/jean-emmanuel/open-stage-control)
 - Making music! 🎹 🎼 
 
