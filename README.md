@@ -8,7 +8,7 @@
 
 For my music, see my [website](https://adam-adams.com).
 
-![GuitarML's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamAdamsMusic&show_icons=true&theme=onedark&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamAdamsMusic&show_icons=true&theme=onedark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAdamsMusic&layout=compact&theme=onedark&count_private=true)
 
