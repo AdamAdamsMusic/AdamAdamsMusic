@@ -8,9 +8,9 @@
 
 For my music, see my [website](https://adam-adams.com).
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamAdamsMusic&show_icons=true&theme=onedark&count_private=true)
+![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=AdamAdamsMusic&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAdamsMusic&layout=compact&theme=onedark&count_private=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AdamAdamsMusic&layout=compact&theme=onedark)
 
 <!--
 **AdamAdamsMusic/AdamAdamsMusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
